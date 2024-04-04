@@ -407,7 +407,7 @@ hr{
     top: 7vh;
 }
 
-.flex-button>button{
+.flex-button>a>button{
     background-color: white;
     color: #0077fc;
     border: none;
@@ -416,7 +416,7 @@ hr{
     width: 11vw;
 }
 
-.flex-button>button:hover{
+.flex-button>a>button:hover{
     color: white;
     border: none;
     background: #0077fc;
@@ -477,7 +477,7 @@ hr{
         width: 76%;
     }
 
-    .flex-button>button{
+    .flex-button>a>button{
         width: 28vw;
     }
 
