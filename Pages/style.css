@@ -104,6 +104,16 @@ button>img{
     
 }
 
+button{
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
 button:hover{
     cursor: pointer;
     background-color: white;
